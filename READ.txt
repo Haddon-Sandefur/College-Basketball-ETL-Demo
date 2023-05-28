@@ -1,0 +1,13 @@
+The following output is a demo. 
+
+The Python Files are set to run on the entire 2022 season.
+
+The final data, "cbb_DataProcessed" contains games in the first two days of the 2022 season.
+
+Please run files in order:
+1. cbb_Pycrawl.py
+2. cbb_Pyscrape_ESPN.py
+3. cbb_Pyset_Edit.py
+
+If you attempt to run files without editing the scrape dates, you may experience a timeout from ESPN's servers.
+Scripts are meant to be ran on a daily or weekly basis *during* a season, so scraping everything all at once may get you kicked from ESPN's servers.

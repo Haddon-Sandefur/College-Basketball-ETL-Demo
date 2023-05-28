@@ -1,0 +1,293 @@
+"teams"	"opponent"	"h1"	"h2"	"t"	"fieldGoal"	"threePoint"	"freeThrow"	"rebounds"	"offensiveRebounds"	"defensiveRebounds"	"assists"	"steals"	"blocks"	"totalTurnovers"	"fouls"	"technicalFouls"	"flagrantFouls"	"largestLead"	"line"	"favoredTeam"	"spread"	"teamsAlt"	"ot"	"covered"	"coverHist"	"favored"	"gameIndex"	"coverDiff"	"coverDiffHist"	"avgH1Hist"	"avgH2Hist"	"avgTHist"	"avgFieldGoalHist"	"avgThreePointHist"	"avgFreeThrowHist"	"avgReboundHist"	"avgOffensiveReboundsHist"	"avgDefensiveReboundsHist"	"avgAssistsHist"	"avgStealsHist"	"avgBlocksHist"	"avgTotalTurnoversHist"	"avgFoulsHist"	"avgSpreadHist"
+"1"	"UNCW"	"UNC"	-11	-2	-13	-16.5	5	-1.7	5	9	-4	-1	1	-5	2	6	0	0	-10	"Line: UNC -23.0"	"UNC"	23	"UNC Wilmington Seahawks"	NA	1	NA	0	1	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"2"	"UNC"	"UNCW"	11	2	13	16.5	-5	1.7	-5	-9	4	1	-1	5	-2	-6	0	0	10	"Line: UNC -23.0"	"UNC"	-23	"North Carolina Tar Heels"	NA	0	NA	1	1	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"3"	"UNF"	"GONZ"	-30	-11	-41	-28.6	-15	-22.2	-11	2	-13	-9	-8	-1	8	-7	1	0	-40	"Line: GONZ -30.5"	"GONZ"	30.5	"North Florida Ospreys"	NA	0	NA	0	2	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"4"	"GONZ"	"UNF"	30	11	41	28.6	15	22.2	11	-2	13	9	8	1	-8	7	-1	0	40	"Line: GONZ -30.5"	"GONZ"	-30.5	"Gonzaga Bulldogs"	NA	1	NA	1	2	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"5"	"UNCO"	"HOU"	-19	-28	-47	-18.8	-14.1	-11.2	-12	-11	-1	-11	-11	-3	15	-1	0	0	-47	"Line: HOU -23.5"	"HOU"	23.5	"Northern Colorado Bears"	NA	0	NA	0	3	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"6"	"HOU"	"UNCO"	19	28	47	18.8	14.1	11.2	12	11	1	11	11	3	-15	1	0	0	47	"Line: HOU -23.5"	"HOU"	-23.5	"Houston Cougars"	NA	1	NA	1	3	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"7"	"HOW"	"UK"	-23	-9	-32	-20.5	-17.8	19.8	-5	3	-8	-10	-6	-4	6	7	0	0	-37	"Line: UK -25.0"	"UK"	25	"Howard Bison"	NA	0	NA	0	4	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"8"	"UK"	"HOW"	23	9	32	20.5	17.8	-19.8	5	-3	8	10	6	4	-6	-7	0	0	37	"Line: UK -25.0"	"UK"	-25	"Kentucky Wildcats"	NA	1	NA	1	4	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"9"	"MVSU"	"BAY"	-40	-24	-64	-18.7	-18.1	-5.3	-24	-13	-11	-14	-5	-6	16	4	0	0	-65	"Line: BAY -44.5"	"BAY"	44.5	"Mississippi Valley State Delta Devils"	NA	0	NA	0	5	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"10"	"BAY"	"MVSU"	40	24	64	18.7	18.1	5.3	24	13	11	14	5	6	-16	-4	0	0	65	"Line: BAY -44.5"	"BAY"	-44.5	"Baylor Bears"	NA	1	NA	1	5	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"11"	"OMA"	"KU"	-13	-12	-25	-13.6	-17.1	25.6	-15	-8	-7	-14	-4	-4	4	-4	0	0	-26	"Line: KU -33.5"	"KU"	33.5	"Omaha Mavericks"	NA	1	NA	0	6	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"12"	"KU"	"OMA"	13	12	25	13.6	17.1	-25.6	15	8	7	14	4	4	-4	4	0	0	26	"Line: KU -33.5"	"KU"	-33.5	"Kansas Jayhawks"	NA	0	NA	1	6	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"13"	"JAX"	"DUKE"	-16	-11	-27	-11.8	-21.5	36.4	-19	-9	-10	-7	-1	0	-1	6	0	0	-27	"Line: DUKE -15.0"	"DUKE"	15	"Jacksonville Dolphins"	NA	0	NA	0	7	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"14"	"DUKE"	"JAX"	16	11	27	11.8	21.5	-36.4	19	9	10	7	1	0	1	-6	0	0	27	"Line: DUKE -15.0"	"DUKE"	-15	"Duke Blue Devils"	NA	1	NA	1	7	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"15"	"SAC"	"UCLA"	-14	-12	-26	-18.6	-48.9	18.8	4	6	-2	-5	-10	-5	12	-2	-2	0	-23	"Line: UCLA -25.5"	"UCLA"	25.5	"Sacramento State Hornets"	NA	0	NA	0	8	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"16"	"UCLA"	"SAC"	14	12	26	18.6	48.9	-18.8	-4	-6	2	5	10	5	-12	2	2	0	23	"Line: UCLA -25.5"	"UCLA"	-25.5	"UCLA Bruins"	NA	1	NA	1	8	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"17"	"STMN"	"CREI"	-5	-7	-12	2	17.4	-10.7	-4	-6	2	-1	-1	-4	9	5	0	0	-14	"Line: CREI -28.0"	"CREI"	28	"St. Thomas - Minnesota Tommies"	NA	1	NA	0	9	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"18"	"CREI"	"STMN"	5	7	12	-2	-17.4	10.7	4	6	-2	1	1	4	-9	-5	0	0	14	"Line: CREI -28.0"	"CREI"	-28	"Creighton Bluejays"	NA	0	NA	1	9	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"19"	"NDSU"	"ARK"	-8	-10	-18	-15.2	-16.2	-4.39999999999999	-5	1	-6	-3	-6	-2	3	-3	-1	0	-21	"Line: ARK -22.5"	"ARK"	22.5	"North Dakota State Bison"	NA	1	NA	0	10	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"20"	"ARK"	"NDSU"	8	10	18	15.2	16.2	4.39999999999999	5	-1	6	3	6	2	-3	3	1	0	21	"Line: ARK -22.5"	"ARK"	-22.5	"Arkansas Razorbacks"	NA	0	NA	1	10	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"21"	"TNTC"	"TENN"	-11	-21	-32	-7.5	-2.4	-36.8	-9	-10	1	-16	-9	-4	7	-1	0	0	-32	"Line: TENN -35.5"	"TENN"	35.5	"Tennessee Tech Golden Eagles"	NA	1	NA	0	11	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"22"	"TENN"	"TNTC"	11	21	32	7.5	2.4	36.8	9	10	-1	16	9	4	-7	1	0	0	32	"Line: TENN -35.5"	"TENN"	-35.5	"Tennessee Volunteers"	NA	0	NA	1	11	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"23"	"UTEP"	"TEX"	-13	-2	-15	-14.4	4.7	-9.2	5	7	-2	-6	-1	0	4	10	0	0	-18	"Line: TEX -21.5"	"TEX"	21.5	"UTEP Miners"	NA	1	NA	0	12	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"24"	"TEX"	"UTEP"	13	2	15	14.4	-4.7	9.2	-5	-7	2	6	1	0	-4	-10	0	0	18	"Line: TEX -21.5"	"TEX"	-21.5	"Texas Longhorns"	NA	0	NA	1	12	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"25"	"MORE"	"IU"	-12	-23	-35	-24	-6.4	22.9	-5	1	-6	-8	-5	-3	11	7	1	0	-36	"Line: IU -24.5"	"IU"	24.5	"Morehead State Eagles"	NA	0	NA	0	13	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"26"	"IU"	"MORE"	12	23	35	24	6.4	-22.9	5	-1	6	8	5	3	-11	-7	-1	0	36	"Line: IU -24.5"	"IU"	-24.5	"Indiana Hoosiers"	NA	1	NA	1	13	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"27"	"UAPB"	"TCU"	11	-12	-1	2.4	25.8	-1.09999999999999	-4	-4	0	9	-1	3	2	11	1	0	15	"Line: TCU -35.0"	"TCU"	35	"Arkansas-Pine Bluff Golden Lions"	NA	1	NA	0	14	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"28"	"TCU"	"UAPB"	-11	12	1	-2.4	-25.8	1.09999999999999	4	4	0	-9	1	-3	-2	-11	-1	0	-15	"Line: TCU -35.0"	"TCU"	-35	"TCU Horned Frogs"	NA	0	NA	1	14	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"29"	"GMU"	"AUB"	-7	-11	-18	3.7	19	-24.6	-11	-12	1	-3	-11	-6	10	7	0	0	-20	"Line: AUB -10.0"	"AUB"	10	"George Mason Patriots"	NA	0	NA	0	15	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"30"	"AUB"	"GMU"	7	11	18	-3.7	-19	24.6	11	12	-1	3	11	6	-10	-7	0	0	20	"Line: AUB -10.0"	"AUB"	-10	"Auburn Tigers"	NA	1	NA	1	15	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"31"	"LAS"	"VILL"	-14	1	-13	-15.8	-25	-20.9	-1	5	-6	-2	2	-4	0	-3	0	0	-21	"Line: VILL -15.0"	"VILL"	15	"La Salle Explorers"	NA	1	NA	0	16	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"32"	"VILL"	"LAS"	14	-1	13	15.8	25	20.9	1	-5	6	2	-2	4	0	3	0	0	21	"Line: VILL -15.0"	"VILL"	-15	"Villanova Wildcats"	NA	0	NA	1	16	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"33"	"NICH"	"ARIZ"	-22	-20	-42	-31.4	-22.2	-29.5	-19	4	-23	-19	10	-4	-8	7	0	0	-44	"Line: ARIZ -24.5"	"ARIZ"	24.5	"Nicholls Colonels"	NA	0	NA	0	17	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"34"	"ARIZ"	"NICH"	22	20	42	31.4	22.2	29.5	19	-4	23	19	-10	4	8	-7	0	0	44	"Line: ARIZ -24.5"	"ARIZ"	-24.5	"Arizona Wildcats"	NA	1	NA	1	17	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"35"	"NCCU"	"UVA"	-8	-4	-12	-1.1	-1.9	-9	-10	-2	-8	-8	2	0	0	13	0	0	-14	"Line: UVA -24.0"	"UVA"	24	"North Carolina Central Eagles"	NA	1	NA	0	18	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"36"	"UVA"	"NCCU"	8	4	12	1.1	1.9	9	10	2	8	8	-2	0	0	-13	0	0	14	"Line: UVA -24.0"	"UVA"	-24	"Virginia Cavaliers"	NA	0	NA	1	18	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"37"	"CSUF"	"SDSU"	-7	-16	-23	-14.6	-26.2	6.90000000000001	1	3	-2	-12	-6	2	6	4	0	0	-28	"Line: SDSU -23.0"	"SDSU"	23	"Cal State Fullerton Titans"	NA	0	NA	0	19	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"38"	"SDSU"	"CSUF"	7	16	23	14.6	26.2	-6.90000000000001	-1	-3	2	12	6	-2	-6	-4	0	0	28	"Line: SDSU -23.0"	"SDSU"	-23	"San Diego State Aztecs"	NA	0	NA	1	19	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"39"	"LONG"	"ALA"	-8	-13	-21	-12.3	27.8	-11.3	-29	-10	-19	-2	2	-6	-9	4	0	0	-24	"Line: ALA -14.5"	"ALA"	14.5	"Longwood Lancers"	NA	0	NA	0	20	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"40"	"ALA"	"LONG"	8	13	21	12.3	-27.8	11.3	29	10	19	2	-2	6	9	-4	0	0	24	"Line: ALA -14.5"	"ALA"	-14.5	"Alabama Crimson Tide"	NA	1	NA	1	20	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"41"	"FAMU"	"ORE"	-11	-24	-35	-8.5	-7.3	17.9	-18	-13	-5	-10	-8	-5	11	10	1	0	-35	"Line: ORE -30.5"	"ORE"	30.5	"Florida A&M Rattlers"	NA	0	NA	0	21	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"42"	"ORE"	"FAMU"	11	24	35	8.5	7.3	-17.9	18	13	5	10	8	5	-11	-10	-1	0	35	"Line: ORE -30.5"	"ORE"	-30.5	"Oregon Ducks"	NA	1	NA	1	21	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"43"	"PFW"	"MICH"	-12	-7	-19	-17.3	-7.3	4.7	6	11	-5	-6	-5	-6	6	2	0	0	-20	"Line: MICH -15.5"	"MICH"	15.5	"Purdue Fort Wayne Mastodons"	NA	0	NA	0	22	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"44"	"MICH"	"PFW"	12	7	19	17.3	7.3	-4.7	-6	-11	5	6	5	6	-6	-2	0	0	20	"Line: MICH -15.5"	"MICH"	-15.5	"Michigan Wolverines"	NA	1	NA	1	22	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"45"	"EIU"	"ILL"	-15	-15	-30	-11.9	-14.6	5.5	-23	-10	-13	-7	2	-7	3	9	0	0	-33	"Line: ILL -32.0"	"ILL"	32	"Eastern Illinois Panthers"	NA	1	NA	0	23	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"46"	"ILL"	"EIU"	15	15	30	11.9	14.6	-5.5	23	10	13	7	-2	7	-3	-9	0	0	33	"Line: ILL -32.0"	"ILL"	-32	"Illinois Fighting Illini"	NA	0	NA	1	23	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"47"	"LIN"	"DAY"	-14	-13	-27	-14.4	-6.3	-23.8	-11	-1	-10	-12	0	-5	2	6	0	0	-34	"Line: DAY -31.5"	"DAY"	31.5	"Lindenwood Lions"	NA	1	NA	0	24	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"48"	"DAY"	"LIN"	14	13	27	14.4	6.3	23.8	11	1	10	12	0	5	-2	-6	0	0	34	"Line: DAY -31.5"	"DAY"	-31.5	"Dayton Flyers"	NA	0	NA	1	24	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"49"	"NWST"	"TTU"	-19	-5	-24	-23.8	-11.1	18.2	-12	5	-17	-8	9	-3	-6	8	0	0	-24	"Line: TTU -28.0"	"TTU"	28	"Northwestern State Demons"	NA	1	NA	0	25	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"50"	"TTU"	"NWST"	19	5	24	23.8	11.1	-18.2	12	-5	17	8	-9	3	6	-8	0	0	24	"Line: TTU -28.0"	"TTU"	-28	"Texas Tech Red Raiders"	NA	0	NA	1	25	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"51"	"PAC"	"STAN"	-12	2	-10	-18.6	0.300000000000004	13.9	-5	3	-8	-7	2	-1	-4	9	0	0	-19	"Line: STAN -14.5"	"STAN"	14.5	"Pacific Tigers"	NA	1	NA	0	26	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"52"	"STAN"	"PAC"	12	-2	10	18.6	-0.300000000000004	-13.9	5	-3	8	7	-2	1	4	-9	0	0	19	"Line: STAN -14.5"	"STAN"	-14.5	"Stanford Cardinal"	NA	0	NA	1	26	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"53"	"COPP"	"CHAR"	-13	-10	-23	-9.3	-20.9	-2.10000000000001	-10	-5	-5	-8	-2	-3	1	3	0	0	-21	"Line: CHAR -10.5"	"CHAR"	10.5	"Coppin State Eagles"	NA	0	NA	0	27	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"54"	"CHAR"	"COPP"	13	10	23	9.3	20.9	2.10000000000001	10	5	5	8	2	3	-1	-3	0	0	21	"Line: CHAR -10.5"	"CHAR"	-10.5	"Charlotte 49ers"	NA	1	NA	1	27	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"55"	"UNO"	"BUT"	-25	-11	-36	-15.1	20.8	0.600000000000001	-5	-3	-2	-5	-6	-2	15	8	0	0	-33	"Line: BUT -18.5"	"BUT"	18.5	"New Orleans Privateers"	NA	0	NA	0	28	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"56"	"BUT"	"UNO"	25	11	36	15.1	-20.8	-0.600000000000001	5	3	2	5	6	2	-15	-8	0	0	33	"Line: BUT -18.5"	"BUT"	-18.5	"Butler Bulldogs"	NA	1	NA	1	28	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"57"	"MRMK"	"SJU"	-21	-4	-25	-18.4	-17.8	-14	-21	-4	-17	-6	0	-3	-8	-6	-2	0	-27	"Line: SJU -20.5"	"SJU"	20.5	"Merrimack Warriors"	NA	0	NA	0	29	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"58"	"SJU"	"MRMK"	21	4	25	18.4	17.8	14	21	4	17	6	0	3	8	6	2	0	27	"Line: SJU -20.5"	"SJU"	-20.5	"St. John's Red Storm"	NA	1	NA	1	29	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"59"	"VAL"	"TOL"	-26	11	-15	3.5	2.9	-14.6	-5	-6	1	0	-9	-3	9	4	0	0	-27	"Line: TOL -13.0"	"TOL"	13	"Valparaiso Beacons"	NA	0	NA	0	30	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"60"	"TOL"	"VAL"	26	-11	15	-3.5	-2.9	14.6	5	6	-1	0	9	3	-9	-4	0	0	27	"Line: TOL -13.0"	"TOL"	-13	"Toledo Rockets"	NA	1	NA	1	30	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"61"	"SDST"	"AKR"	6	-6	-1	9	-8.8	-0.899999999999991	4	-4	8	-5	-2	-1	4	-2	0	0	2	"Line: AKR -3.5"	"AKR"	3.5	"South Dakota State Jackrabbits"	10	1	NA	0	31	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"62"	"AKR"	"SDST"	-6	6	1	-9	8.8	0.899999999999991	-4	4	-8	5	2	1	-4	2	0	0	-2	"Line: AKR -3.5"	"AKR"	-3.5	"Akron Zips"	11	0	NA	1	31	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"63"	"GB"	"INST"	-3	-24	-27	-15.9	-20.5	16.7	-9	-1	-8	-15	-3	3	1	-3	-1	0	-23	"Line: INST -17.5"	"INST"	17.5	"Green Bay Phoenix"	NA	0	NA	0	32	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"64"	"INST"	"GB"	3	24	27	15.9	20.5	-16.7	9	1	8	15	3	-3	-1	3	1	0	23	"Line: INST -17.5"	"INST"	-17.5	"Indiana State Sycamores"	NA	1	NA	1	32	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"65"	"NJIT"	"SPU"	-21	7	-14	-8.9	-9.1	-15.9	-1	-1	0	-5	-2	-2	4	-10	0	0	-24	"Line: SPU -8.5"	"SPU"	8.5	"NJIT Highlanders"	NA	0	NA	0	33	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"66"	"SPU"	"NJIT"	21	-7	14	8.9	9.1	15.9	1	1	0	5	2	2	-4	10	0	0	24	"Line: SPU -8.5"	"SPU"	-8.5	"Saint Peter's Peacocks"	NA	1	NA	1	33	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"67"	"COLG"	"BUFF"	3	-4	-1	-0.199999999999996	7.1	11	10	0	10	2	-6	-2	5	-5	0	0	2	"Line: COLG -3.0"	"COLG"	-3	"Colgate Raiders"	NA	0	NA	1	34	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"68"	"BUFF"	"COLG"	-3	4	1	0.199999999999996	-7.1	-11	-10	0	-10	-2	6	2	-5	5	0	0	-2	"Line: COLG -3.0"	"COLG"	3	"Buffalo Bulls"	NA	1	NA	0	34	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"69"	"SIE"	"HC"	11	-4	7	4.4	21.2	13.6	4	-3	7	6	-5	-1	1	0	0	0	15	"Line: SIE -1.0"	"SIE"	-1	"Siena Saints"	NA	1	NA	1	35	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"70"	"HC"	"SIE"	-11	4	-7	-4.4	-21.2	-13.6	-4	3	-7	-6	5	1	-1	0	0	0	-15	"Line: SIE -1.0"	"SIE"	1	"Holy Cross Crusaders"	NA	0	NA	0	35	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"71"	"ALB"	"TOW"	-10	5	-5	-7.6	7.3	-7.90000000000001	2	2	0	1	-1	1	2	5	0	0	-13	"Line: TOW -16.5"	"TOW"	16.5	"Albany Great Danes"	NA	1	NA	0	36	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"72"	"TOW"	"ALB"	10	-5	5	7.6	-7.3	7.90000000000001	-2	-2	0	-1	1	-1	-2	-5	0	0	13	"Line: TOW -16.5"	"TOW"	-16.5	"Towson Tigers"	NA	0	NA	1	36	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"73"	"HCU"	"FIU"	9	-20	-11	-10.9	33.4	13.3	0	2	-2	1	-7	-7	8	3	0	0	4	"Line: FIU -13.5"	"FIU"	13.5	"Houston Christian Huskies"	NA	1	NA	0	37	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"74"	"FIU"	"HCU"	-9	20	11	10.9	-33.4	-13.3	0	-2	2	-1	7	7	-8	-3	0	0	-4	"Line: FIU -13.5"	"FIU"	-13.5	"Florida International Panthers"	NA	0	NA	1	37	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"75"	"UMES"	"ODU"	-7	-12	-19	-10.4	14.1	-5.59999999999999	-21	-9	-12	-2	1	-4	0	6	0	0	-16	"Line: ODU -11.0"	"ODU"	11	"Maryland-Eastern Shore Hawks"	NA	0	NA	0	38	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"76"	"ODU"	"UMES"	7	12	19	10.4	-14.1	5.59999999999999	21	9	12	2	-1	4	0	-6	0	0	16	"Line: ODU -11.0"	"ODU"	-11	"Old Dominion Monarchs"	NA	1	NA	1	38	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"77"	"IDHO"	"DEN"	-5	0	-5	-9	-17.5	12.1	-6	1	-7	-3	3	-5	0	8	0	0	-7	"Line: DEN -9.5"	"DEN"	9.5	"Idaho Vandals"	NA	1	NA	0	39	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"78"	"DEN"	"IDHO"	5	0	5	9	17.5	-12.1	6	-1	7	3	-3	5	0	-8	0	0	7	"Line: DEN -9.5"	"DEN"	-9.5	"Denver Pioneers"	NA	0	NA	1	39	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"79"	"WAG"	"TEM"	-3	3	3	3.3	3	-18.5	2	3	-1	0	3	-6	-5	0	0	0	-10	"Line: TEM -16.0"	"TEM"	16	"Wagner Seahawks"	7	1	NA	0	40	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"80"	"TEM"	"WAG"	3	-3	-3	-3.3	-3	18.5	-2	-3	1	0	-3	6	5	0	0	0	10	"Line: TEM -16.0"	"TEM"	-16	"Temple Owls"	4	0	NA	1	40	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"81"	"KENT"	"NKU"	6	16	22	24.5	35.7	-35.2	-8	-10	2	11	0	1	-1	6	0	0	28	"Line: NKU -1.0"	"NKU"	1	"Kent State Golden Flashes"	NA	1	NA	0	41	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"82"	"NKU"	"KENT"	-6	-16	-22	-24.5	-35.7	35.2	8	10	-2	-11	0	-1	1	-6	0	0	-28	"Line: NKU -1.0"	"NKU"	-1	"Northern Kentucky Norse"	NA	0	NA	1	41	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"83"	"MAN"	"VCU"	-18	1	-17	8.6	2.40000000000001	6.7	-3	-10	7	0	-10	1	13	11	0	0	-19	"Line: VCU -22.5"	"VCU"	22.5	"Manhattan Jaspers"	NA	1	NA	0	42	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"84"	"VCU"	"MAN"	18	-1	17	-8.6	-2.40000000000001	-6.7	3	10	-7	0	10	-1	-13	-11	0	0	19	"Line: VCU -22.5"	"VCU"	-22.5	"VCU Rams"	NA	0	NA	1	42	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"85"	"SFPA"	"SBU"	0	-13	-13	-7.3	0	1.7	-2	-2	0	-1	-4	-2	5	0	0	0	-13	"Line: SBU -11.0"	"SBU"	11	"St. Francis (PA) Red Flash"	NA	0	NA	0	43	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"86"	"SBU"	"SFPA"	0	13	13	7.3	0	-1.7	2	2	0	1	4	2	-5	0	0	0	13	"Line: SBU -11.0"	"SBU"	-11	"St. Bonaventure Bonnies"	NA	1	NA	1	43	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"87"	"QUIN"	"URI"	3	2	5	5.2	18.2	-19.2	-3	-3	0	-4	1	0	-4	1	0	0	7	"Line: URI -9.0"	"URI"	9	"Quinnipiac Bobcats"	NA	1	NA	0	44	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"88"	"URI"	"QUIN"	-3	-2	-5	-5.2	-18.2	19.2	3	3	0	4	-1	0	4	-1	0	0	-7	"Line: URI -9.0"	"URI"	-9	"Rhode Island Rams"	NA	0	NA	1	44	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"89"	"PENN"	"IONA"	-13	-15	-28	-8.09999999999999	-20	-8	-2	-5	3	-7	-6	2	13	0	0	0	-22	"Line: IONA -6.0"	"IONA"	6	"Pennsylvania Quakers"	NA	0	NA	0	45	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"90"	"IONA"	"PENN"	13	15	28	8.09999999999999	20	8	2	5	-3	7	6	-2	-13	0	0	0	22	"Line: IONA -6.0"	"IONA"	-6	"Iona Gaels"	NA	1	NA	1	45	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"91"	"BRWN"	"UVM"	-9	-6	-15	-9.59999999999999	-10.2	-21.1	-5	1	-6	-6	1	0	1	3	0	0	-17	"Line: UVM -12.5"	"UVM"	12.5	"Brown Bears"	NA	0	NA	0	46	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"92"	"UVM"	"BRWN"	9	6	15	9.59999999999999	10.2	21.1	5	-1	6	6	-1	0	-1	-3	0	0	17	"Line: UVM -12.5"	"UVM"	-12.5	"Vermont Catamounts"	NA	1	NA	1	46	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"93"	"AFA"	"BGSU"	-6	2	-4	0.700000000000003	5.3	-13.2	-7	-5	-2	2	-3	4	1	3	0	0	-1	"Line: BGSU -3.5"	"BGSU"	3.5	"Air Force Falcons"	NA	0	NA	0	47	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"94"	"BGSU"	"AFA"	6	-2	4	-0.700000000000003	-5.3	13.2	7	5	2	-2	3	-4	-1	-3	0	0	1	"Line: BGSU -3.5"	"BGSU"	-3.5	"Bowling Green Falcons"	NA	1	NA	1	47	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"95"	"MRSH"	"QUOC"	-5	4	-1	-3.5	-6.8	8.3	-11	-2	-9	4	7	5	-9	3	0	0	6	"Line: MRSH -4.5"	"MRSH"	-4.5	"Marshall Thundering Herd"	NA	0	NA	1	48	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"96"	"QUOC"	"MRSH"	5	-4	1	3.5	6.8	-8.3	11	2	9	-4	-7	-5	9	-3	0	0	-6	"Line: MRSH -4.5"	"MRSH"	4.5	"Queens University Royals"	NA	1	NA	0	48	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"97"	"VMI"	"RICH"	-7	-14	-21	-20.1	-3.8	9.09999999999999	-5	6	-11	-7	-3	-4	2	8	-1	0	-22	"Line: RICH -22.5"	"RICH"	22.5	"VMI Keydets"	NA	1	NA	0	49	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"98"	"RICH"	"VMI"	7	14	21	20.1	3.8	-9.09999999999999	5	-6	11	7	3	4	-2	-8	1	0	22	"Line: RICH -22.5"	"RICH"	-22.5	"Richmond Spiders"	NA	0	NA	1	49	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"99"	"NAU"	"MSU"	-14	-4	-18	-12.9	-6.6	-5.8	-9	-1	-8	-4	-1	-4	3	-3	0	0	-21	"Line: MSU -21.0"	"MSU"	21	"Northern Arizona Lumberjacks"	NA	1	NA	0	50	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"100"	"MSU"	"NAU"	14	4	18	12.9	6.6	5.8	9	1	8	4	1	4	-3	3	0	0	21	"Line: MSU -21.0"	"MSU"	-21	"Michigan State Spartans"	NA	0	NA	1	50	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"101"	"TAR"	"ASU"	-3	0	-3	0.600000000000001	-10.7	11.1	-15	-11	-4	0	4	-7	-4	0	1	0	8	"Line: ASU -14.5"	"ASU"	14.5	"Tarleton Texans"	NA	1	NA	0	51	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"102"	"ASU"	"TAR"	3	0	3	-0.600000000000001	10.7	-11.1	15	11	4	0	-4	7	4	0	-1	0	-8	"Line: ASU -14.5"	"ASU"	-14.5	"Arizona State Sun Devils"	NA	0	NA	1	51	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"103"	"COLU"	"RUTG"	-10	-30	-40	-19.7	-35.2	18.8	-8	-7	-1	-17	-9	-1	14	-1	0	0	-43	"Line: RUTG -18.5"	"RUTG"	18.5	"Columbia Lions"	NA	0	NA	0	52	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"104"	"RUTG"	"COLU"	10	30	40	19.7	35.2	-18.8	8	7	1	17	9	1	-14	1	0	0	43	"Line: RUTG -18.5"	"RUTG"	-18.5	"Rutgers Scarlet Knights"	NA	1	NA	1	52	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"105"	"WIN"	"PSU"	-12	-13	-25	-10.1	-3.4	23.7	-6	-3	-3	-12	-1	-2	6	-3	0	0	-25	"Line: PSU -13.5"	"PSU"	13.5	"Winthrop Eagles"	NA	0	NA	0	53	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"106"	"PSU"	"WIN"	12	13	25	10.1	3.4	-23.7	6	3	3	12	1	2	-6	3	0	0	25	"Line: PSU -13.5"	"PSU"	-13.5	"Penn State Nittany Lions"	NA	1	NA	1	53	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"107"	"RMU"	"OSU"	-14	-24	-38	-24	-30.9	-9	-21	-1	-20	-12	-1	-4	-3	2	0	0	-38	"Line: OSU -20.5"	"OSU"	20.5	"Robert Morris Colonials"	NA	0	NA	0	54	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"108"	"OSU"	"RMU"	14	24	38	24	30.9	9	21	1	20	12	1	4	3	-2	0	0	38	"Line: OSU -20.5"	"OSU"	-20.5	"Ohio State Buckeyes"	NA	1	NA	1	54	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"109"	"NIA"	"MD"	-7	-15	-22	-9	-45	-23.2	-4	2	-6	1	-6	-5	2	-2	0	0	-21	"Line: MD -17.0"	"MD"	17	"Niagara Purple Eagles"	NA	0	NA	0	55	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"110"	"MD"	"NIA"	7	15	22	9	45	23.2	4	-2	6	-1	6	5	-2	2	0	0	21	"Line: MD -17.0"	"MD"	-17	"Maryland Terrapins"	NA	1	NA	1	55	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"111"	"BCU"	"IOWA"	-19	-12	-31	-15.9	-2	28.6	-11	-1	-10	-14	-4	-3	5	4	0	0	-35	"Line: IOWA -28.5"	"IOWA"	28.5	"Bethune-Cookman Wildcats"	NA	0	NA	0	56	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"112"	"IOWA"	"BCU"	19	12	31	15.9	2	-28.6	11	1	10	14	4	3	-5	-4	0	0	35	"Line: IOWA -28.5"	"IOWA"	-28.5	"Iowa Hawkeyes"	NA	1	NA	1	56	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"113"	"MSM"	"WVU"	-12	-6	-18	-16.4	17.6	-19.2	-17	-2	-15	-6	-5	-2	-1	1	1	0	-17	"Line: WVU -17.0"	"WVU"	17	"Mount St. Mary's Mountaineers"	NA	0	NA	0	57	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"114"	"WVU"	"MSM"	12	6	18	16.4	-17.6	19.2	17	2	15	6	5	2	1	-1	-1	0	17	"Line: WVU -17.0"	"WVU"	-17	"West Virginia Mountaineers"	NA	1	NA	1	57	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"115"	"UTM"	"PITT"	-13	-9	-22	-4.3	-11	-11.4	-10	-6	-4	-14	2	-8	2	6	-2	0	-33	"Line: PITT -8.5"	"PITT"	8.5	"UT Martin Skyhawks"	NA	0	NA	0	58	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"116"	"PITT"	"UTM"	13	9	22	4.3	11	11.4	10	6	4	14	-2	8	-2	-6	2	0	33	"Line: PITT -8.5"	"PITT"	-8.5	"Pittsburgh Panthers"	NA	1	NA	1	58	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"117"	"STET"	"FSU"	7	2	9	1.7	-2.9	16.9	3	0	3	6	2	0	-1	5	0	0	15	"Line: FSU -18.0"	"FSU"	18	"Stetson Hatters"	NA	1	NA	0	59	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"118"	"FSU"	"STET"	-7	-2	-9	-1.7	2.9	-16.9	-3	0	-3	-6	-2	0	1	-5	0	0	-15	"Line: FSU -18.0"	"FSU"	-18	"Florida State Seminoles"	NA	0	NA	1	59	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"119"	"CIT"	"CLEM"	-14	3	-11	-3.3	12.2	11.1	-12	-8	-4	-8	-7	2	5	3	0	0	-14	"Line: CLEM -18.0"	"CLEM"	18	"The Citadel Bulldogs"	NA	1	NA	0	60	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"120"	"CLEM"	"CIT"	14	-3	11	3.3	-12.2	-11.1	12	8	4	8	7	-2	-5	-3	0	0	14	"Line: CLEM -18.0"	"CLEM"	-18	"Clemson Tigers"	NA	0	NA	1	60	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"121"	"YSU"	"CAN"	23	-12	11	16.1	16.7	-22.4	22	5	17	1	-2	1	10	4	0	0	25	"Line: YSU -4.0"	"YSU"	-4	"Youngstown State Penguins"	NA	1	NA	1	61	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"122"	"CAN"	"YSU"	-23	12	-11	-16.1	-16.7	22.4	-22	-5	-17	-1	2	-1	-10	-4	0	0	-25	"Line: YSU -4.0"	"YSU"	4	"Canisius Golden Griffins"	NA	0	NA	0	61	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"123"	"TXST"	"WSU"	-7	-15	-22	-6.7	-20	-20.5	-14	-6	-8	-8	-2	-4	-1	-4	0	0	-23	"Line: WSU -12.0"	"WSU"	12	"Texas State Bobcats"	NA	0	NA	0	62	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"124"	"WSU"	"TXST"	7	15	22	6.7	20	20.5	14	6	8	8	2	4	1	4	0	0	23	"Line: WSU -12.0"	"WSU"	-12	"Washington State Cougars"	NA	1	NA	1	62	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"125"	"NE"	"BU"	-5	-4	-9	-2	-4.4	12.9	3	-2	5	-4	0	1	7	0	-1	0	-10	"Line: BU -2.0"	"BU"	2	"Northeastern Huskies"	NA	0	NA	0	63	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"126"	"BU"	"NE"	5	4	9	2	4.4	-12.9	-3	2	-5	4	0	-1	-7	0	1	0	10	"Line: BU -2.0"	"BU"	-2	"Boston University Terriers"	NA	1	NA	1	63	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"127"	"HOF"	"PRIN"	-4	10	6	5.3	16.2	-3.3	-4	-3	-1	-1	2	-1	-2	8	0	0	-1	"Line: PRIN -2.0"	"PRIN"	2	"Hofstra Pride"	NA	1	NA	0	64	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"128"	"PRIN"	"HOF"	4	-10	-6	-5.3	-16.2	3.3	4	3	1	1	-2	1	2	-8	0	0	1	"Line: PRIN -2.0"	"PRIN"	-2	"Princeton Tigers"	NA	0	NA	1	64	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"129"	"UTC"	"COFC"	-11	4	-7	4	3.6	-9.39999999999999	2	-1	3	7	-3	0	6	5	0	0	-10	"Line: COFC -4.5"	"COFC"	4.5	"Chattanooga Mocs"	NA	0	NA	0	65	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"130"	"COFC"	"UTC"	11	-4	7	-4	-3.6	9.39999999999999	-2	1	-3	-7	3	0	-6	-5	0	0	10	"Line: COFC -4.5"	"COFC"	-4.5	"Charleston Cougars"	NA	1	NA	1	65	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"131"	"AMCC"	"MSST"	5	-24	-19	-10.3	6	46.2	-9	-4	-5	-7	-5	-4	5	6	0	0	-7	"Line: MSST -15.0"	"MSST"	15	"Texas A&M-Corpus Christi Islanders"	NA	0	NA	0	66	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"132"	"MSST"	"AMCC"	-5	24	19	10.3	-6	-46.2	9	4	5	7	5	4	-5	-6	0	0	7	"Line: MSST -15.0"	"MSST"	-15	"Mississippi State Bulldogs"	NA	1	NA	1	66	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"133"	"OHIO"	"BEL"	-7	6	-1	-5.8	17	35.1	4	3	1	-9	-3	-6	1	3	0	0	-3	"Line: BEL -6.0"	"BEL"	6	"Ohio Bobcats"	NA	1	NA	0	67	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"134"	"BEL"	"OHIO"	7	-6	1	5.8	-17	-35.1	-4	-3	-1	9	3	6	-1	-3	0	0	3	"Line: BEL -6.0"	"BEL"	-6	"Belmont Bruins"	NA	0	NA	1	67	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"135"	"NAVY"	"W&M"	2	13	15	8	19	-3.3	9	3	6	6	-1	-3	0	-1	0	0	12	"Line: NAVY -2.0"	"NAVY"	-2	"Navy Midshipmen"	NA	1	NA	1	68	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"136"	"W&M"	"NAVY"	-2	-13	-15	-8	-19	3.3	-9	-3	-6	-6	1	3	0	1	0	0	-12	"Line: NAVY -2.0"	"NAVY"	2	"William & Mary Tribe"	NA	0	NA	0	68	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"137"	"CCSU"	"MASS"	-8	-19	-27	-12.6	-16.4	-8.3	-19	-7	-12	-9	0	-1	0	2	0	0	-30	"Line: MASS -17.0"	"MASS"	17	"Central Connecticut Blue Devils"	NA	0	NA	0	69	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"138"	"MASS"	"CCSU"	8	19	27	12.6	16.4	8.3	19	7	12	9	0	1	0	-2	0	0	30	"Line: MASS -17.0"	"MASS"	-17	"UMass Minutemen"	NA	1	NA	1	69	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"139"	"DART"	"FOR"	-5	-9	-14	-15	5.8	5.09999999999999	-7	0	-7	6	-4	-5	2	-3	0	0	-12	"Line: FOR -6.0"	"FOR"	6	"Dartmouth Big Green"	NA	0	NA	0	70	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"140"	"FOR"	"DART"	5	9	14	15	-5.8	-5.09999999999999	7	0	7	-6	4	5	-2	3	0	0	12	"Line: FOR -6.0"	"FOR"	-6	"Fordham Rams"	NA	1	NA	1	70	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"141"	"ALST"	"UAB"	-19	-22	-41	-21.5	-5.4	5.7	-10	4	-14	-1	-2	1	4	13	1	0	-43	"Line: UAB -26.0"	"UAB"	26	"Alabama State Hornets"	NA	0	NA	0	71	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"142"	"UAB"	"ALST"	19	22	41	21.5	5.4	-5.7	10	-4	14	1	2	-1	-4	-13	-1	0	43	"Line: UAB -26.0"	"UAB"	-26	"UAB Blazers"	NA	1	NA	1	71	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"143"	"STO"	"CONN"	-19	-12	-31	-10.4	8.6	6.3	-20	-12	-8	-7	-1	-6	9	1	0	0	-30	"Line: CONN -30.5"	"CONN"	30.5	"Stonehill Skyhawks"	NA	0	NA	0	72	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"144"	"CONN"	"STO"	19	12	31	10.4	-8.6	-6.3	20	12	8	7	1	6	-9	-1	0	0	30	"Line: CONN -30.5"	"CONN"	-30.5	"UConn Huskies"	NA	1	NA	1	72	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"145"	"LAF"	"MIA"	2	-15	-13	0.299999999999997	0	-22.5	-12	-9	-3	1	-5	1	5	4	0	0	-9	"Line: MIA -26.5"	"MIA"	26.5	"Lafayette Leopards"	NA	1	NA	0	73	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"146"	"MIA"	"LAF"	-2	15	13	-0.299999999999997	0	22.5	12	9	3	-1	5	-1	-5	-4	0	0	9	"Line: MIA -26.5"	"MIA"	-26.5	"Miami Hurricanes"	NA	0	NA	1	73	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"147"	"MORG"	"XAV"	-24	1	-23	-14.5	-6.3	-2.3	-18	-1	-17	-13	2	-7	-2	8	0	0	-30	"Line: XAV -23.5"	"XAV"	23.5	"Morgan State Bears"	NA	1	NA	0	74	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"148"	"XAV"	"MORG"	24	-1	23	14.5	6.3	2.3	18	1	17	13	-2	7	2	-8	0	0	30	"Line: XAV -23.5"	"XAV"	-23.5	"Xavier Musketeers"	NA	0	NA	1	74	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"149"	"L-MD"	"DEP"	-13	7	-6	-3.1	12.1	-30.7	-1	2	-3	-1	-4	-3	1	3	0	0	-14	"Line: DEP -13.5"	"DEP"	13.5	"Loyola Maryland Greyhounds"	NA	1	NA	0	75	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"150"	"DEP"	"L-MD"	13	-7	6	3.1	-12.1	30.7	1	-2	3	1	4	3	-1	-3	0	0	14	"Line: DEP -13.5"	"DEP"	-13.5	"DePaul Blue Demons"	NA	0	NA	1	75	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"151"	"JKST"	"ACU"	-20	11	-9	-0.399999999999999	-18.1	16.4	7	2	5	-3	-3	-4	6	4	0	0	-18	"Line: ACU -16.5"	"ACU"	16.5	"Jackson State Tigers"	NA	1	NA	0	76	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"152"	"ACU"	"JKST"	20	-11	9	0.399999999999999	18.1	-16.4	-7	-2	-5	3	3	4	-6	-4	0	0	18	"Line: ACU -16.5"	"ACU"	-16.5	"Abilene Christian Wildcats"	NA	0	NA	1	76	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"153"	"WIU"	"ILST"	-7	10	3	5.6	4.5	-14	-16	-6	-10	12	2	0	-9	1	-1	0	-7	"Line: ILST -9.5"	"ILST"	9.5	"Western Illinois Leathernecks"	NA	1	NA	0	77	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"154"	"ILST"	"WIU"	7	-10	-3	-5.6	-4.5	14	16	6	10	-12	-2	0	9	-1	1	0	7	"Line: ILST -9.5"	"ILST"	-9.5	"Illinois State Redbirds"	NA	0	NA	1	77	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"155"	"LR"	"SIU"	-27	-4	-31	-17.6	-26.2	-30.6	-23	-3	-20	-12	7	0	-11	-1	0	0	-31	"Line: SIU -14.5"	"SIU"	14.5	"Little Rock Trojans"	NA	0	NA	0	78	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"156"	"SIU"	"LR"	27	4	31	17.6	26.2	30.6	23	3	20	12	-7	0	11	1	0	0	31	"Line: SIU -14.5"	"SIU"	-14.5	"Southern Illinois Salukis"	NA	1	NA	1	78	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"157"	"SEMO"	"USF"	0	3	3	-10.5	17.4	16.2	1	3	-2	2	0	-1	-1	2	0	0	-2	"Line: USF -11.0"	"USF"	11	"Southeast Missouri State Redhawks"	NA	1	NA	0	79	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"158"	"USF"	"SEMO"	0	-3	-3	10.5	-17.4	-16.2	-1	-3	2	-2	0	1	1	-2	0	0	2	"Line: USF -11.0"	"USF"	-11	"South Florida Bulls"	NA	0	NA	1	79	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"159"	"UNCA"	"UCF"	3	-3	3	5.8	7.6	-0.200000000000003	3	-5	8	1	-1	1	5	-3	0	0	-1	"Line: UCF -7.5"	"UCF"	7.5	"UNC Asheville Bulldogs"	22	1	NA	0	80	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"160"	"UCF"	"UNCA"	-3	3	-3	-5.8	-7.6	0.200000000000003	-3	5	-8	-1	1	-1	-5	3	0	0	1	"Line: UCF -7.5"	"UCF"	-7.5	"UCF Knights"	19	0	NA	1	80	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"161"	"MUR"	"SLU"	-15	-8	-23	-10.2	-0.499999999999996	-0.599999999999994	-14	-7	-7	-16	-2	1	1	1	1	0	-16	"Line: SLU -13.0"	"SLU"	13	"Murray State Racers"	NA	0	NA	0	81	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"162"	"SLU"	"MUR"	15	8	23	10.2	0.499999999999996	0.599999999999994	14	7	7	16	2	-1	-1	-1	-1	0	16	"Line: SLU -13.0"	"SLU"	-13	"Saint Louis Billikens"	NA	1	NA	1	81	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"163"	"FDU"	"LUC"	-2	2	-6	-6.3	2.8	-4	-3	3	-6	-10	2	-3	-3	2	0	0	-8	"Line: LUC -26.0"	"LUC"	26	"Fairleigh Dickinson Knights"	5	1	NA	0	82	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"164"	"LUC"	"FDU"	2	-2	6	6.3	-2.8	4	3	-3	6	10	-2	3	3	-2	0	0	8	"Line: LUC -26.0"	"LUC"	-26	"Loyola Chicago Ramblers"	11	0	NA	1	82	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"165"	"CARK"	"WICH"	-20	-4	-24	-13.7	-15.3	9.8	-5	5	-10	-2	-3	-4	4	4	0	0	-28	"Line: WICH -17.5"	"WICH"	17.5	"Central Arkansas Bears"	NA	0	NA	0	83	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"166"	"WICH"	"CARK"	20	4	24	13.7	15.3	-9.8	5	-5	10	2	3	4	-4	-4	0	0	28	"Line: WICH -17.5"	"WICH"	-17.5	"Wichita State Shockers"	NA	1	NA	1	83	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"167"	"CHST"	"NU"	-16	-15	-31	-17.5	-21.1	-12.2	-12	1	-13	-11	-2	1	-2	10	1	0	-37	"Line: NU -23.5"	"NU"	23.5	"Chicago State Cougars"	NA	0	NA	0	84	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"168"	"NU"	"CHST"	16	15	31	17.5	21.1	12.2	12	-1	13	11	2	-1	2	-10	-1	0	37	"Line: NU -23.5"	"NU"	-23.5	"Northwestern Wildcats"	NA	1	NA	1	84	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"169"	"ME"	"NEB"	-12	-1	-13	1.09999999999999	9.6	-55	-17	-11	-6	4	5	5	2	8	0	0	-15	"Line: NEB -21.0"	"NEB"	21	"Maine Black Bears"	NA	1	NA	0	85	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"170"	"NEB"	"ME"	12	1	13	-1.09999999999999	-9.6	55	17	11	6	-4	-5	-5	-2	-8	0	0	15	"Line: NEB -21.0"	"NEB"	-21	"Nebraska Cornhuskers"	NA	0	NA	1	85	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"171"	"SHSU"	"OU"	-7	8	1	-4.40000000000001	-0.199999999999999	-25.6	-3	6	-9	3	5	-4	-9	3	0	0	-12	"Line: OU -16.0"	"OU"	16	"Sam Houston Bearkats"	NA	1	NA	0	86	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"172"	"OU"	"SHSU"	7	-8	-1	4.40000000000001	0.199999999999999	25.6	3	-6	9	-3	-5	4	9	-3	0	0	12	"Line: OU -16.0"	"OU"	-16	"Oklahoma Sooners"	NA	0	NA	1	86	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"173"	"IUPU"	"ISU"	-23	-26	-49	-18.3	-16.2	-22	-16	-8	-8	-16	-8	-2	15	6	0	0	-46	"Line: ISU -26.5"	"ISU"	26.5	"IUPUI Jaguars"	NA	0	NA	0	87	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"174"	"ISU"	"IUPU"	23	26	49	18.3	16.2	22	16	8	8	16	8	2	-15	-6	0	0	46	"Line: ISU -26.5"	"ISU"	-26.5	"Iowa State Cyclones"	NA	1	NA	1	87	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"175"	"MEM"	"VAN"	12	-3	9	9.8	-13.7	29.5	7	-1	8	0	0	-1	0	0	0	0	19	"Line: MEM -2.5"	"MEM"	-2.5	"Memphis Tigers"	NA	1	NA	1	88	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"176"	"VAN"	"MEM"	-12	3	-9	-9.8	13.7	-29.5	-7	1	-8	0	0	1	0	0	0	0	-19	"Line: MEM -2.5"	"MEM"	2.5	"Vanderbilt Commodores"	NA	0	NA	0	88	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"177"	"ULM"	"TA&M"	-14	-19	-33	-23.7	-36.2	10.3	-11	0	-11	-15	7	1	2	-7	0	0	-38	"Line: TA&M -20.5"	"TA&M"	20.5	"UL Monroe Warhawks"	NA	0	NA	0	89	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"178"	"TA&M"	"ULM"	14	19	33	23.7	36.2	-10.3	11	0	11	15	-7	-1	-2	7	0	0	38	"Line: TA&M -20.5"	"TA&M"	-20.5	"Texas A&M Aggies"	NA	1	NA	1	89	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"179"	"USI"	"MIZ"	-16	10	-6	0.399999999999999	25	3.59999999999999	-5	-5	0	-5	-5	1	11	4	0	0	-20	"Line: MIZ -19.5"	"MIZ"	19.5	"Southern Indiana Screaming Eagles"	NA	1	NA	0	90	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"180"	"MIZ"	"USI"	16	-10	6	-0.399999999999999	-25	-3.59999999999999	5	5	0	5	5	-1	-11	-4	0	0	20	"Line: MIZ -19.5"	"MIZ"	-19.5	"Missouri Tigers"	NA	0	NA	1	90	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"181"	"WCU"	"UGA"	-15	2	-13	-14	3.3	8.5	-16	-4	-12	1	3	-4	-7	-1	0	0	-18	"Line: UGA -13.5"	"UGA"	13.5	"Western Carolina Catamounts"	NA	1	NA	0	91	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"182"	"UGA"	"WCU"	15	-2	13	14	-3.3	-8.5	16	4	12	-1	-3	4	7	1	0	0	18	"Line: UGA -13.5"	"UGA"	-13.5	"Georgia Bulldogs"	NA	0	NA	1	91	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"183"	"STBK"	"FLA"	-16	-20	-36	-16.7	-18.6	-18.4	-16	-5	-11	-3	-2	-2	8	2	0	0	-38	"Line: FLA -26.5"	"FLA"	26.5	"Stony Brook Seawolves"	NA	0	NA	0	92	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"184"	"FLA"	"STBK"	16	20	36	16.7	18.6	18.4	16	5	11	3	2	2	-8	-2	0	0	38	"Line: FLA -26.5"	"FLA"	-26.5	"Florida Gators"	NA	1	NA	1	92	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"185"	"FAIR"	"WAKE"	-7	-5	-12	-0.899999999999999	0.300000000000001	-21.5	-6	-1	-5	-3	-5	3	3	9	0	0	-8	"Line: WAKE -13.0"	"WAKE"	13	"Fairfield Stags"	NA	1	NA	0	93	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"186"	"WAKE"	"FAIR"	7	5	12	0.899999999999999	-0.300000000000001	21.5	6	1	5	3	5	-3	-3	-9	0	0	8	"Line: WAKE -13.0"	"WAKE"	-13	"Wake Forest Demon Deacons"	NA	0	NA	1	93	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"187"	"LEH"	"SYR"	-18	0	-18	-11.6	-11.9	-0.5	-13	-2	-11	3	-1	-5	-1	9	0	0	-22	"Line: SYR -17.0"	"SYR"	17	"Lehigh Mountain Hawks"	NA	0	NA	0	94	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"188"	"SYR"	"LEH"	18	0	18	11.6	11.9	0.5	13	2	11	-3	1	5	1	-9	0	0	22	"Line: SYR -17.0"	"SYR"	-17	"Syracuse Orange"	NA	1	NA	1	94	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"189"	"APSU"	"NCST"	-28	-21	-49	-30.7	-26.8	5	-13	-1	-12	-12	-4	-5	6	-6	0	0	-51	"Line: NCST -13.0"	"NCST"	13	"Austin Peay Governors"	NA	0	NA	0	95	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"190"	"NCST"	"APSU"	28	21	49	30.7	26.8	-5	13	1	12	12	4	5	-6	6	0	0	51	"Line: NCST -13.0"	"NCST"	-13	"NC State Wolfpack"	NA	1	NA	1	95	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"191"	"COR"	"BC"	-2	0	-2	-1.2	12.6	0.700000000000003	-6	-5	-1	-1	-3	-1	5	1	0	0	-5	"Line: BC -9.0"	"BC"	9	"Cornell Big Red"	NA	1	NA	0	96	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"192"	"BC"	"COR"	2	0	2	1.2	-12.6	-0.700000000000003	6	5	1	1	3	1	-5	-1	0	0	5	"Line: BC -9.0"	"BC"	-9	"Boston College Eagles"	NA	0	NA	1	96	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"193"	"EVAN"	"M-OH"	4	0	4	3.40000000000001	4.3	-5	2	0	2	-2	-2	1	-1	1	-1	0	12	"Line: M-OH -5.5"	"M-OH"	5.5	"Evansville Purple Aces"	NA	1	NA	0	97	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"194"	"M-OH"	"EVAN"	-4	0	-4	-3.40000000000001	-4.3	5	-2	0	-2	2	2	-1	1	-1	1	0	-12	"Line: M-OH -5.5"	"M-OH"	-5.5	"Miami (OH) Redhawks"	NA	0	NA	1	97	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"195"	"UND"	"UIW"	0	8	8	5.9	10	0	3	-4	7	4	-6	4	1	-10	-1	0	6	"Line: UND -2.5"	"UND"	-2.5	"North Dakota Fighting Hawks"	NA	1	NA	1	98	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"196"	"UIW"	"UND"	0	-8	-8	-5.9	-10	0	-3	4	-7	-4	6	-4	-1	10	1	0	-6	"Line: UND -2.5"	"UND"	2.5	"Incarnate Word Cardinals"	NA	0	NA	0	98	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"197"	"TAMC"	"SMU"	-4	-13	-17	-15.2	5	-13.3	-8	4	-12	-3	1	-6	-4	7	2	0	-20	"Line: SMU -17.0"	"SMU"	17	"Texas A&M-Commerce Lions"	NA	0	NA	0	99	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"198"	"SMU"	"TAMC"	4	13	17	15.2	-5	13.3	8	-4	12	3	-1	6	4	-7	-2	0	20	"Line: SMU -17.0"	"SMU"	-17	"SMU Mustangs"	NA	0	NA	1	99	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"199"	"UMBC"	"TULN"	-13	-9	-22	-16.1	-9.7	6.40000000000001	-9	-5	-4	-1	-1	0	2	0	0	0	-25	"Line: TULN -16.5"	"TULN"	16.5	"UMBC Retrievers"	NA	0	NA	0	100	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"200"	"TULN"	"UMBC"	13	9	22	16.1	9.7	-6.40000000000001	9	5	4	1	1	0	-2	0	0	0	25	"Line: TULN -16.5"	"TULN"	-16.5	"Tulane Green Wave"	NA	1	NA	1	100	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"201"	"UCR"	"COLO"	-18	2	-16	-6.6	-27.2	-21.5	1	3	-2	-8	-4	0	2	10	0	0	-20	"Line: COLO -11.0"	"COLO"	11	"UC Riverside Highlanders"	NA	0	NA	0	101	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"202"	"COLO"	"UCR"	18	-2	16	6.6	27.2	21.5	-1	-3	2	8	4	0	-2	-10	0	0	20	"Line: COLO -11.0"	"COLO"	-11	"Colorado Buffaloes"	NA	1	NA	1	101	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"203"	"SDAK"	"WISC"	-10	-16	-26	-10.5	-32.9	-9.2	-3	1	-4	-7	-3	-2	0	5	0	0	-27	"Line: WISC -12.0"	"WISC"	12	"South Dakota Coyotes"	NA	0	NA	0	102	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"204"	"WISC"	"SDAK"	10	16	26	10.5	32.9	9.2	3	-1	4	7	3	2	0	-5	0	0	27	"Line: WISC -12.0"	"WISC"	-12	"Wisconsin Badgers"	NA	1	NA	1	102	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"205"	"RAD"	"MARQ"	-8	-2	-10	-4.5	-6.3	-20	-7	-1	-6	-7	-1	0	-3	0	0	0	-21	"Line: MARQ -19.5"	"MARQ"	19.5	"Radford Highlanders"	NA	1	NA	0	103	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"206"	"MARQ"	"RAD"	8	2	10	4.5	6.3	20	7	1	6	7	1	0	3	0	0	0	21	"Line: MARQ -19.5"	"MARQ"	-19.5	"Marquette Golden Eagles"	NA	0	NA	1	103	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"207"	"MTST"	"GCU"	17	-23	-6	-4.9	-5.5	4	1	2	-1	2	1	4	0	2	0	0	13	"Line: GCU -6.5"	"GCU"	6.5	"Montana State Bobcats"	NA	1	NA	0	104	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"208"	"GCU"	"MTST"	-17	23	6	4.9	5.5	-4	-1	-2	1	-2	-1	-4	0	-2	0	0	-13	"Line: GCU -6.5"	"GCU"	-6.5	"Grand Canyon Lopes"	NA	0	NA	1	104	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"209"	"UTA"	"OKST"	-5	-6	-11	-7.7	-0.5	9.59999999999999	-3	-1	-2	-6	3	-6	2	-1	0	0	-30	"Line: OKST -20.5"	"OKST"	20.5	"UT Arlington Mavericks"	NA	1	NA	0	105	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"210"	"OKST"	"UTA"	5	6	11	7.7	0.5	-9.59999999999999	3	1	2	6	-3	6	-2	1	0	0	30	"Line: OKST -20.5"	"OKST"	-20.5	"Oklahoma State Cowboys"	NA	0	NA	1	105	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"211"	"IDST"	"BYU"	-5	1	-4	0.700000000000003	13.2	3	-12	-10	-2	-2	3	-2	-1	0	2	0	0	"Line: BYU -23.5"	"BYU"	23.5	"Idaho State Bengals"	NA	1	NA	0	106	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"212"	"BYU"	"IDST"	5	-1	4	-0.700000000000003	-13.2	-3	12	10	2	2	-3	2	1	0	-2	0	0	"Line: BYU -23.5"	"BYU"	-23.5	"BYU Cougars"	NA	0	NA	1	106	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"213"	"UVU"	"USU"	-13	-4	-17	-12.5	-26.3	18.7	-13	-3	-10	-9	5	-2	-1	2	2	0	-17	"Line: USU -8.5"	"USU"	8.5	"Utah Valley Wolverines"	NA	0	NA	0	107	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"214"	"USU"	"UVU"	13	4	17	12.5	26.3	-18.7	13	3	10	9	-5	2	1	-2	-2	0	17	"Line: USU -8.5"	"USU"	-8.5	"Utah State Aggies"	NA	1	NA	1	107	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"215"	"SUU"	"UNM"	-6	-2	-8	-1.3	-2.4	-5.2	2	1	1	-3	-5	-1	8	10	-1	0	-11	"Line: UNM -8.0"	"UNM"	8	"Southern Utah Thunderbirds"	NA	0	NA	0	108	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"216"	"UNM"	"SUU"	6	2	8	1.3	2.4	5.2	-2	-1	-1	3	5	1	-8	-10	1	0	11	"Line: UNM -8.0"	"UNM"	-8	"New Mexico Lobos"	NA	0	NA	1	108	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"217"	"WEBB"	"CSU"	11	-13	-2	-7.4	-22	-4.2	5	7	-2	-5	6	1	0	4	-2	0	2	"Line: CSU -7.5"	"CSU"	7.5	"Gardner-Webb Runnin' Bulldogs"	NA	1	NA	0	109	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"218"	"CSU"	"WEBB"	-11	13	2	7.4	22	4.2	-5	-7	2	5	-6	-1	0	-4	2	0	-2	"Line: CSU -7.5"	"CSU"	-7.5	"Colorado State Rams"	NA	0	NA	1	109	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"219"	"WMU"	"MINN"	-9	8	-1	-8.3	-20.9	60.9	-2	3	-5	-5	4	-1	-6	8	0	0	-13	"Line: MINN -9.5"	"MINN"	9.5	"Western Michigan Broncos"	NA	1	NA	0	110	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"220"	"MINN"	"WMU"	9	-8	1	8.3	20.9	-60.9	2	-3	5	5	-4	1	6	-8	0	0	13	"Line: MINN -9.5"	"MINN"	-9.5	"Minnesota Golden Gophers"	NA	0	NA	1	110	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"221"	"UTRGV"	"KSU"	-26	-8	-34	-6.3	-17.7	-4.2	-6	-6	0	-16	-4	0	12	2	-2	0	-34	"Line: KSU -18.5"	"KSU"	18.5	"UT Rio Grande Valley Vaqueros"	NA	0	NA	0	111	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"222"	"KSU"	"UTRGV"	26	8	34	6.3	17.7	4.2	6	6	0	16	4	0	-12	-2	2	0	34	"Line: KSU -18.5"	"KSU"	-18.5	"Kansas State Wildcats"	NA	1	NA	1	111	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"223"	"ALCN"	"MISS"	-1	-14	-15	-0.5	10.7	10.4	-12	-8	-4	1	3	0	2	9	0	0	-12	"Line: MISS -20.0"	"MISS"	20	"Alcorn State Braves"	NA	1	NA	0	112	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"224"	"MISS"	"ALCN"	1	14	15	0.5	-10.7	-10.4	12	8	4	-1	-3	0	-2	-9	0	0	12	"Line: MISS -20.0"	"MISS"	-20	"Ole Miss Rebels"	NA	0	NA	1	112	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"225"	"DSU"	"VT"	-25	-13	-38	-16.3	-25	-3.59999999999999	-18	-4	-14	-9	0	-2	2	8	0	0	-36	"Line: VT -34.0"	"VT"	34	"Delaware State Hornets"	NA	0	NA	0	113	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"226"	"VT"	"DSU"	25	13	38	16.3	25	3.59999999999999	18	4	14	9	0	2	-2	-8	0	0	36	"Line: VT -34.0"	"VT"	-34	"Virginia Tech Hokies"	NA	1	NA	1	113	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"227"	"FGCU"	"USC"	-1	14	13	-2.9	13.8	5.3	11	9	2	-2	-2	-5	-4	2	0	0	9	"Line: USC -18.0"	"USC"	18	"Florida Gulf Coast Eagles"	NA	1	NA	0	114	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"228"	"USC"	"FGCU"	1	-14	-13	2.9	-13.8	-5.3	-11	-9	-2	2	2	5	4	-2	0	0	-9	"Line: USC -18.0"	"USC"	-18	"USC Trojans"	NA	0	NA	1	114	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"229"	"TXSO"	"SF"	-15	2	-13	-22	-7.8	-6.00000000000001	-24	1	-25	-9	3	-1	-13	-9	0	0	-17	"Line: SF -15.0"	"SF"	15	"Texas Southern Tigers"	NA	1	NA	0	115	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"230"	"SF"	"TXSO"	15	-2	13	22	7.8	6.00000000000001	24	-1	25	9	-3	1	13	9	0	0	17	"Line: SF -15.0"	"SF"	-15	"San Francisco Dons"	NA	0	NA	1	115	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"231"	"ORU"	"SMC"	-18	10	-8	-0.599999999999994	8	-0.800000000000011	-5	-3	-2	2	-6	3	7	7	0	0	-20	"Line: SMC -9.5"	"SMC"	9.5	"Oral Roberts Golden Eagles"	NA	1	NA	0	116	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"232"	"SMC"	"ORU"	18	-10	8	0.599999999999994	-8	0.800000000000011	5	3	2	-2	6	-3	-7	-7	0	0	20	"Line: SMC -9.5"	"SMC"	-9.5	"Saint Mary's Gaels"	NA	0	NA	1	116	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"233"	"EWU"	"SCU"	-6	-6	-12	4.90000000000001	-8.3	-14.2	-10	-9	-1	2	-3	-1	6	4	1	0	-4	"Line: SCU -6.5"	"SCU"	6.5	"Eastern Washington Eagles"	NA	0	NA	0	117	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"234"	"SCU"	"EWU"	6	6	12	-4.90000000000001	8.3	14.2	10	9	1	-2	3	1	-6	-4	-1	0	4	"Line: SCU -6.5"	"SCU"	-6.5	"Santa Clara Broncos"	NA	1	NA	1	117	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"235"	"LBSU"	"CBU"	7	8	15	18.5	17.1	-2.90000000000001	7	-2	9	4	4	1	-2	2	0	0	14	"Line: CBU -4.0"	"CBU"	4	"Long Beach State Beach"	NA	1	NA	0	118	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"236"	"CBU"	"LBSU"	-7	-8	-15	-18.5	-17.1	2.90000000000001	-7	2	-9	-4	-4	-1	2	-2	0	0	-14	"Line: CBU -4.0"	"CBU"	-4	"California Baptist Lancers"	NA	0	NA	1	118	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"237"	"SEA"	"UCSD"	13	1	14	-1	16.2	-15.1	7	8	-1	7	1	2	-2	2	1	0	16	"Line: SEA -3.0"	"SEA"	-3	"Seattle U Redhawks"	NA	1	NA	1	119	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"238"	"UCSD"	"SEA"	-13	-1	-14	1	-16.2	15.1	-7	-8	1	-7	-1	-2	2	-2	-1	0	-16	"Line: SEA -3.0"	"SEA"	3	"UC San Diego Tritons"	NA	0	NA	0	119	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"239"	"UTU"	"NEV"	-5	-8	-13	-12.1	6.4	-0.900000000000006	-2	3	-5	-9	-3	-9	4	2	0	0	-14	"Line: NEV -12.0"	"NEV"	12	"Utah Tech Trailblazers"	NA	0	NA	0	120	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"240"	"NEV"	"UTU"	5	8	13	12.1	-6.4	0.900000000000006	2	-3	5	9	3	9	-4	-2	0	0	14	"Line: NEV -12.0"	"NEV"	-12	"Nevada Wolf Pack"	NA	1	NA	1	120	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"241"	"RICE"	"PEPP"	-8	-31	-39	-24.8	-18.7	-34.1	-10	4	-14	-8	-1	-2	1	-8	0	0	-34	"Line: PEPP -4.5"	"PEPP"	4.5	"Rice Owls"	NA	0	NA	0	121	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"242"	"PEPP"	"RICE"	8	31	39	24.8	18.7	34.1	10	-4	14	8	1	2	-1	8	0	0	34	"Line: PEPP -4.5"	"PEPP"	-4.5	"Pepperdine Waves"	NA	1	NA	1	121	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"243"	"SOU"	"UNLV"	-8	-2	-10	4.5	13.2	-12.8	4	1	3	4	-1	-2	10	11	0	0	-14	"Line: UNLV -14.0"	"UNLV"	14	"Southern Jaguars"	NA	1	NA	0	122	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"244"	"UNLV"	"SOU"	8	2	10	-4.5	-13.2	12.8	-4	-1	-3	-4	1	2	-10	-11	0	0	14	"Line: UNLV -14.0"	"UNLV"	-14	"UNLV Rebels"	NA	0	NA	1	122	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"245"	"WEB"	"WASH"	-8	-9	-17	-11.5	-14.2	19	-11	-5	-6	2	-3	-7	3	2	0	0	-11	"Line: WASH -13.5"	"WASH"	13.5	"Weber State Wildcats"	NA	0	NA	0	123	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"246"	"WASH"	"WEB"	8	9	17	11.5	14.2	-19	11	5	6	-2	3	7	-3	-2	0	0	11	"Line: WASH -13.5"	"WASH"	-13.5	"Washington Huskies"	NA	1	NA	1	123	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"247"	"LIU"	"UTAH"	-14	-27	-41	-9.5	-8.7	-17.9	-19	-11	-8	-1	-6	-7	10	4	0	0	-41	"Line: UTAH -25.0"	"UTAH"	25	"Long Island University Sharks"	NA	0	NA	0	124	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"248"	"UTAH"	"LIU"	14	27	41	9.5	8.7	17.9	19	11	8	1	6	7	-10	-4	0	0	41	"Line: UTAH -25.0"	"UTAH"	-25	"Utah Utes"	NA	1	NA	1	124	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"249"	"UCD"	"CAL"	5	5	10	10.1	14.3	-8.09999999999999	6	-2	8	5	2	-4	-1	-4	0	0	5	"Line: CAL -5.5"	"CAL"	5.5	"UC Davis Aggies"	NA	1	NA	0	125	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"250"	"CAL"	"UCD"	-5	-5	-10	-10.1	-14.3	8.09999999999999	-6	2	-8	-5	-2	4	1	4	0	0	-5	"Line: CAL -5.5"	"CAL"	-5.5	"California Golden Bears"	NA	0	NA	1	125	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"251"	"TLSA"	"ORST"	16	-19	-3	-13.6	0	-8.8	-6	5	-11	-1	6	-10	-7	-3	2	0	12	"Line: ORST -3.0"	"ORST"	3	"Tulsa Golden Hurricane"	NA	0	NA	0	126	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"252"	"ORST"	"TLSA"	-16	19	3	13.6	0	8.8	6	-5	11	1	-6	10	7	3	-2	0	-12	"Line: ORST -3.0"	"ORST"	-3	"Oregon State Beavers"	NA	0	NA	1	126	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"253"	"RID"	"PROV"	10	-11	-1	5.4	43.2	19.5	-3	-4	1	4	-5	-6	5	14	0	0	5	"Line: PROV -13.0"	"PROV"	13	"Rider Broncs"	NA	1	NA	0	127	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"254"	"PROV"	"RID"	-10	11	1	-5.4	-43.2	-19.5	3	4	-1	-4	5	6	-5	-14	0	0	-5	"Line: PROV -13.0"	"PROV"	-13	"Providence Friars"	NA	0	NA	1	127	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"255"	"MILW"	"PUR"	-19	-12	-31	0.799999999999997	-19.5	-37.4	-18	-11	-7	-8	-7	-6	10	7	0	0	-34	"Line: PUR -25.0"	"PUR"	25	"Milwaukee Panthers"	NA	0	NA	0	128	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"256"	"PUR"	"MILW"	19	12	31	-0.799999999999997	19.5	37.4	18	11	7	8	7	6	-10	-7	0	0	34	"Line: PUR -25.0"	"PUR"	-25	"Purdue Boilermakers"	NA	1	NA	1	128	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"257"	"SHU"	"HART"	9	-2	7	0.899999999999999	6.3	-29.3	2	4	-2	8	3	0	-3	1	0	0	4	"Line: SHU -6.0"	"SHU"	-6	"Sacred Heart Pioneers"	NA	1	NA	1	129	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"258"	"HART"	"SHU"	-9	2	-7	-0.899999999999999	-6.3	29.3	-2	-4	2	-8	-3	0	3	-1	0	0	-4	"Line: SHU -6.0"	"SHU"	6	"Hartford Hawks"	NA	0	NA	0	129	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"259"	"MER"	"ECU"	9	-11	-2	3.4	8.4	-5.4	-4	-2	-2	4	2	1	-3	1	0	0	10	"Line: MER -1.0"	"MER"	-1	"Mercer Bears"	NA	0	NA	1	130	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"260"	"ECU"	"MER"	-9	11	2	-3.4	-8.4	5.4	4	2	2	-4	-2	-1	3	-1	0	0	-10	"Line: MER -1.0"	"MER"	1	"East Carolina Pirates"	NA	1	NA	0	130	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"261"	"MONT"	"DUQ"	-26	-2	-28	-25.9	-11.7	14.8	-13	0	-13	-7	-3	-4	0	-6	0	0	-40	"Line: DUQ -3.5"	"DUQ"	3.5	"Montana Grizzlies"	NA	0	NA	0	131	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"262"	"DUQ"	"MONT"	26	2	28	25.9	11.7	-14.8	13	0	13	7	3	4	0	6	0	0	40	"Line: DUQ -3.5"	"DUQ"	-3.5	"Duquesne Dukes"	NA	1	NA	1	131	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"263"	"SCST"	"SC"	-3	0	-3	-0.300000000000004	7.3	-3.09999999999999	-7	-4	-3	5	2	1	-1	7	0	0	-14	"Line: SC -26.0"	"SC"	26	"South Carolina State Bulldogs"	NA	1	NA	0	132	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"264"	"SC"	"SCST"	3	0	3	0.300000000000004	-7.3	3.09999999999999	7	4	3	-5	-2	-1	1	-7	0	0	14	"Line: SC -26.0"	"SC"	-26	"South Carolina Gamecocks"	NA	0	NA	1	132	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"265"	"COPP"	"GTWN"	-2	2	-10	-9	-4.7	8.3	-15	-6	-9	0	5	-4	-1	3	0	0	-5	"Line: GTWN -18.5"	"GTWN"	18.5	"Coppin State Eagles"	6	1	0	0	133	1	-1	-13	-10	-23	-9.3	-20.9	-2.10000000000001	-10	-5	-5	-8	-2	-3	1	3	10.5
+"266"	"GTWN"	"COPP"	2	-2	10	9	4.7	-8.3	15	6	9	0	-5	4	1	-3	0	0	5	"Line: GTWN -18.5"	"GTWN"	-18.5	"Georgetown Hoyas"	16	0	NA	1	133	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"267"	"GASO"	"SJSU"	-9	-6	-15	-19.4	0.399999999999999	28.6	0	5	-5	-6	1	-4	0	2	0	0	-21	"Line: SJSU -3.5"	"SJSU"	3.5	"Georgia Southern Eagles"	NA	0	NA	0	134	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"268"	"SJSU"	"GASO"	9	6	15	19.4	-0.399999999999999	-28.6	0	-5	5	6	-1	4	0	-2	0	0	21	"Line: SJSU -3.5"	"SJSU"	-3.5	"San José State Spartans"	NA	1	NA	1	134	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"269"	"DAV"	"WRST"	-16	16	5	7.90000000000001	16.8	-12.2	-2	-8	6	2	-6	1	5	-8	0	0	-16	"Line: DAV -4.5"	"DAV"	-4.5	"Davidson Wildcats"	23	1	NA	1	135	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"270"	"WRST"	"DAV"	16	-16	-5	-7.90000000000001	-16.8	12.2	2	8	-6	-2	6	-1	-5	8	0	0	16	"Line: DAV -4.5"	"DAV"	4.5	"Wright State Raiders"	18	0	NA	0	135	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"271"	"AMER"	"MRST"	1	-5	-4	-7.6	-8	17.1	5	4	1	-4	-4	1	3	1	0	0	0	"Line: MRST -1.5"	"MRST"	1.5	"American University Eagles"	NA	0	NA	0	136	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"272"	"MRST"	"AMER"	-1	5	4	7.6	8	-17.1	-5	-4	-1	4	4	-1	-3	-1	0	0	0	"Line: MRST -1.5"	"MRST"	-1.5	"Marist Red Foxes"	NA	1	NA	1	136	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"273"	"HAMP"	"JMU"	-38	-10	-48	-28.3	-26.4	-28.2	-23	-2	-21	-10	-4	-5	0	3	0	0	-53	"Line: JMU -16.0"	"JMU"	16	"Hampton Pirates"	NA	0	NA	0	137	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"274"	"JMU"	"HAMP"	38	10	48	28.3	26.4	28.2	23	2	21	10	4	5	0	-3	0	0	53	"Line: JMU -16.0"	"JMU"	-16	"James Madison Dukes"	NA	1	NA	1	137	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"275"	"UTM"	"YSU"	-8	-10	-18	1.6	-3.1	-23.3	-5	-6	1	1	-1	2	6	6	1	0	-18	"Line: YSU -8.5"	"YSU"	8.5	"UT Martin Skyhawks"	NA	0	0	0	138	-2	-1	-13	-9	-22	-4.3	-11	-11.4	-10	-6	-4	-14	2	-8	2	6	8.5
+"276"	"YSU"	"UTM"	8	10	18	-1.6	3.1	23.3	5	6	-1	-1	1	-2	-6	-6	-1	0	18	"Line: YSU -8.5"	"YSU"	-8.5	"Youngstown State Penguins"	NA	1	1	1	138	2	1	23	-12	11	16.1	16.7	-22.4	22	5	17	1	-2	1	10	4	-4
+"277"	"IUPU"	"DRKE"	-23	-9	-32	-25.9	-23.3	-32.1	-10	7	-17	-3	-2	-5	-4	-4	0	0	-33	"Line: DRKE -27.5"	"DRKE"	27.5	"IUPUI Jaguars"	NA	0	0	0	139	-1	-1	-23	-26	-49	-18.3	-16.2	-22	-16	-8	-8	-16	-8	-2	15	6	26.5
+"278"	"DRKE"	"IUPU"	23	9	32	25.9	23.3	32.1	10	-7	17	3	2	5	4	4	0	0	33	"Line: DRKE -27.5"	"DRKE"	-27.5	"Drake Bulldogs"	NA	1	NA	1	139	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"279"	"KC"	"LSU"	-7	-4	-11	-9.3	-22.1	8.59999999999999	-7	-2	-5	-4	-5	-3	1	-3	0	0	-16	"Line: LSU -23.0"	"LSU"	23	"Kansas City Roos"	NA	1	NA	0	140	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"280"	"LSU"	"KC"	7	4	11	9.3	22.1	-8.59999999999999	7	2	5	4	5	3	-1	3	0	0	16	"Line: LSU -23.0"	"LSU"	-23	"LSU Tigers"	NA	0	NA	1	140	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"281"	"LIP"	"SDAK"	7	-15	-8	-3.9	-17.1	-11.9	-10	-2	-8	2	2	5	-4	4	0	0	3	"Line: SDAK -6.0"	"SDAK"	6	"Lipscomb Bisons"	NA	0	NA	0	141	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"282"	"SDAK"	"LIP"	-7	15	8	3.9	17.1	11.9	10	2	8	-2	-2	-5	4	-4	0	0	-3	"Line: SDAK -6.0"	"SDAK"	-6	"South Dakota Coyotes"	NA	1	0	1	141	1	-1	-10	-16	-26	-10.5	-32.9	-9.2	-3	1	-4	-7	-3	-2	0	5	12
+"283"	"MONM"	"HALL"	-19	-8	-27	-15.5	-24.8	7.7	-4	0	-4	-6	-5	-2	3	1	0	0	-30	"Line: HALL -19.5"	"HALL"	19.5	"Monmouth Hawks"	NA	0	NA	0	142	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"284"	"HALL"	"MONM"	19	8	27	15.5	24.8	-7.7	4	0	4	6	5	2	-3	-1	0	0	30	"Line: HALL -19.5"	"HALL"	-19.5	"Seton Hall Pirates"	NA	1	NA	1	142	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"285"	"SDST"	"BOIS"	5	-3	2	1.5	17.8	-1.09999999999999	-6	-4	-2	2	-6	2	5	-2	0	0	11	"Line: BOIS -6.5"	"BOIS"	6.5	"South Dakota State Jackrabbits"	NA	1	1	0	143	2	1	6	-6	-1	9	-8.8	-0.899999999999991	4	-4	8	-5	-2	-1	4	-2	3.5
+"286"	"BOIS"	"SDST"	-5	3	-2	-1.5	-17.8	1.09999999999999	6	4	2	-2	6	-2	-5	2	0	0	-11	"Line: BOIS -6.5"	"BOIS"	-6.5	"Boise State Broncos"	NA	0	NA	1	143	-2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"287"	"BELL"	"LOU"	11	-10	1	6.5	7.40000000000001	3.2	-6	-7	1	-3	0	-2	-2	-4	0	0	6	"Line: LOU -7.5"	"LOU"	7.5	"Bellarmine Knights"	NA	1	NA	0	144	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"288"	"LOU"	"BELL"	-11	10	-1	-6.5	-7.40000000000001	-3.2	6	7	-1	3	0	2	2	4	0	0	-6	"Line: LOU -7.5"	"LOU"	-7.5	"Louisville Cardinals"	NA	0	NA	1	144	-1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"289"	"FGCU"	"USD"	-5	-1	-6	-7.3	3.1	4.2	-4	-2	-2	3	-2	-2	2	1	2	0	-6	"Line: USD -4.5"	"USD"	4.5	"Florida Gulf Coast Eagles"	NA	0	1	0	145	0	1	-1	14	13	-2.9	13.8	5.3	11	9	2	-2	-2	-5	-4	2	18
+"290"	"USD"	"FGCU"	5	1	6	7.3	-3.1	-4.2	4	2	2	-3	2	2	-2	-1	-2	0	6	"Line: USD -4.5"	"USD"	-4.5	"San Diego Toreros"	NA	1	NA	1	145	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+"291"	"FAMU"	"PORT"	-21	-16	-37	-24.9	-15.7	-0.599999999999994	-16	-3	-13	-12	6	0	0	9	1	0	-41	"Line: PORT -23.5"	"PORT"	23.5	"Florida A&M Rattlers"	NA	0	0	0	146	-1	-1	-11	-24	-35	-8.5	-7.3	17.9	-18	-13	-5	-10	-8	-5	11	10	30.5
+"292"	"PORT"	"FAMU"	21	16	37	24.9	15.7	0.599999999999994	16	3	13	12	-6	0	0	-9	-1	0	41	"Line: PORT -23.5"	"PORT"	-23.5	"Portland Pilots"	NA	1	NA	1	146	1	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
