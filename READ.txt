@@ -4,7 +4,7 @@ The Python Files are set to run on the entire 2022 season.
 
 The final data, "cbb_DataProcessed" contains games in the first two days of the 2022 season.
 
-Please run files in order:
+Please run files in order (For simplicity, I recommend doing this in a Spyder environment, but you can set up a batch if you'd like):
 1. cbb_Pycrawl.py
 2. cbb_Pyscrape_ESPN.py
 3. cbb_Pyset_Edit.py
